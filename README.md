@@ -79,8 +79,10 @@ Here are some additional resources to enhance your understanding of FastAPI and 
 
 ## Contribution
 
-Contributions are welcome!  
-Feel free to fork the repository, open issues, or submit pull requests to improve this project or add new features.
+Contributions are welcome! If you'd like to enhance this repository, feel free to:
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Submit a pull request with a detailed description.
 
 ---
 
